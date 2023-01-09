@@ -1,6 +1,6 @@
 import random
 
-
+# dummy comment
 
 def main():
     board = []
